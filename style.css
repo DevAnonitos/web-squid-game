@@ -8,7 +8,7 @@
 .banner
 {
     min-height: 100vh;
-    background: #120e0f url(bg.jpg);
+    background: #120912 url(bg.jpg);
     background-position: center;
     background-size: cover;
     padding: 40px 100px;
@@ -235,9 +235,5 @@ header
         position: relative;
         bottom: initial;
         left: initial;
-    }
-    .navigation
-    {
-        padding-right: 40px;
     }
 }
